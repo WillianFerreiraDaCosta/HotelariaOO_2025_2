@@ -4,6 +4,7 @@ Projeto desenvolvido para a disciplina de **Programação Orientada a Objetos**,
 
 ###  Equipe
 - **Willian Ferreira da Costa** — Módulo de **Hóspede e Quarto**
+- **Cauã Victor Gomes de Lima** — 
 ...
 
 ###  Funcionalidades Implementadas (Willian)
